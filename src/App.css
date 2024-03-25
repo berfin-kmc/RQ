@@ -1,0 +1,30 @@
+.App {
+  background-color: rgb(255, 227, 238);
+}
+
+.content {
+  min-height: 95vh;
+  font-size: 1.4rem;
+  color: #6d2121;
+  font-weight: 500;
+  padding-top: 15%;
+}
+
+nav {
+  height: 5vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+nav a {
+  font-size: 1.7rem;
+  text-decoration: none;
+  color: gray;
+  font-weight: 600;
+}
+
+nav a.active {
+  color: deeppink;
+
+}

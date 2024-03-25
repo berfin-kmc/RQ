@@ -1,0 +1,488 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 2,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Diana Prince"
+    },
+    {
+      "id": 4,
+      "name": "Spider-Man",
+      "alterEgo": "Peter Parker"
+    },
+    {
+      "id": 5,
+      "name": "Iron Man",
+      "alterEgo": "Tony Stark"
+    },
+    {
+      "id": 6,
+      "name": "Captain America",
+      "alterEgo": "Steve Rogers"
+    },
+    {
+      "id": 7,
+      "name": "The Flash",
+      "alterEgo": "Barry Allen"
+    },
+    {
+      "id": 8,
+      "name": "Thor",
+      "alterEgo": "Thor Odinson"
+    },
+    {
+      "id": 9,
+      "name": "Hulk",
+      "alterEgo": "Bruce Banner"
+    },
+    {
+      "id": 10,
+      "name": "Black Widow",
+      "alterEgo": "Natasha Romanoff"
+    },
+    {
+      "id": 11,
+      "name": "Green Lantern",
+      "alterEgo": "Hal Jordan"
+    },
+    {
+      "id": 12,
+      "name": "Aquaman",
+      "alterEgo": "Arthur Curry"
+    },
+    {
+      "id": 13,
+      "name": "Wolverine",
+      "alterEgo": "Logan"
+    },
+    {
+      "id": 14,
+      "name": "Black Panther",
+      "alterEgo": "T'Challa"
+    },
+    {
+      "id": 15,
+      "name": "Captain Marvel",
+      "alterEgo": "Carol Danvers"
+    },
+    {
+      "id": 16,
+      "name": "Green Arrow",
+      "alterEgo": "Oliver Queen"
+    },
+    {
+      "id": 17,
+      "name": "Doctor Strange",
+      "alterEgo": "Stephen Strange"
+    },
+    {
+      "id": 18,
+      "name": "Ant-Man",
+      "alterEgo": "Scott Lang"
+    },
+    {
+      "id": 19,
+      "name": "Supergirl",
+      "alterEgo": "Kara Zor-El"
+    },
+    {
+      "id": 20,
+      "name": "Robin",
+      "alterEgo": "Dick Grayson"
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Rachel Green"
+    },
+    {
+      "id": 2,
+      "name": "Ross Geller"
+    },
+    {
+      "id": 3,
+      "name": "Monica Geller"
+    },
+    {
+      "id": 4,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 5,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 6,
+      "name": "Phoebe Buffay"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "jane_doe@example.com",
+      "username": "sparkle_ninja"
+    },
+    {
+      "id": 2,
+      "email": "john_smith@example.com",
+      "username": "zen_master2"
+    },
+    {
+      "id": 3,
+      "email": "lucy_lu@example.com",
+      "username": "stellar_voyager"
+    },
+    {
+      "id": "d643ab80-85f8-4523-b74d-83f366791726",
+      "email": "baltunbey98@gmail.com",
+      "username": "Berfin"
+    },
+    {
+      "id": "44a9b285-f165-466a-a86e-8cd799d931ee",
+      "email": "andres.luis@gonzales.com",
+      "username": "Andres"
+    }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "user": "sparkle_ninja",
+      "courses": [
+        "Mathematics",
+        "Physics",
+        "Art History"
+      ]
+    },
+    {
+      "id": 2,
+      "user": "zen_master",
+      "courses": [
+        "Computer Science",
+        "Literature",
+        "Psychology"
+      ]
+    },
+    {
+      "id": 3,
+      "user": "stellar_voyager",
+      "courses": [
+        "Biology",
+        "History",
+        "Music"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hexCode": "#ff0000"
+    },
+    {
+      "id": 2,
+      "hexCode": "#00ff00"
+    },
+    {
+      "id": 3,
+      "hexCode": "#0000ff"
+    },
+    {
+      "id": 4,
+      "hexCode": "#ffff00"
+    },
+    {
+      "id": 5,
+      "hexCode": "#00ffff"
+    },
+    {
+      "id": 6,
+      "hexCode": "#ff00ff"
+    },
+    {
+      "id": 7,
+      "hexCode": "#ff6600"
+    },
+    {
+      "id": 8,
+      "hexCode": "#6600cc"
+    },
+    {
+      "id": 9,
+      "hexCode": "#00cc66"
+    },
+    {
+      "id": 10,
+      "hexCode": "#cc0066"
+    },
+    {
+      "id": 11,
+      "hexCode": "#996633"
+    },
+    {
+      "id": 12,
+      "hexCode": "#ff99cc"
+    },
+    {
+      "id": 13,
+      "hexCode": "#0099ff"
+    },
+    {
+      "id": 14,
+      "hexCode": "#ffcc00"
+    },
+    {
+      "id": 15,
+      "hexCode": "#660033"
+    },
+    {
+      "id": 16,
+      "hexCode": "#99ff33"
+    },
+    {
+      "id": 17,
+      "hexCode": "#9900cc"
+    },
+    {
+      "id": 18,
+      "hexCode": "#cc6600"
+    },
+    {
+      "id": 19,
+      "hexCode": "#ff6699"
+    },
+    {
+      "id": 20,
+      "hexCode": "#0066ff"
+    },
+    {
+      "id": 21,
+      "hexCode": "#ff9933"
+    },
+    {
+      "id": 22,
+      "hexCode": "#330033"
+    },
+    {
+      "id": 23,
+      "hexCode": "#99ccff"
+    },
+    {
+      "id": 24,
+      "hexCode": "#6600ff"
+    },
+    {
+      "id": 25,
+      "hexCode": "#ff3300"
+    },
+    {
+      "id": 26,
+      "hexCode": "#cc3300"
+    },
+    {
+      "id": 27,
+      "hexCode": "#660066"
+    },
+    {
+      "id": 28,
+      "hexCode": "#66cc00"
+    },
+    {
+      "id": 29,
+      "hexCode": "#00cc33"
+    },
+    {
+      "id": 30,
+      "hexCode": "#3300cc"
+    },
+    {
+      "id": 31,
+      "hexCode": "#00cc99"
+    },
+    {
+      "id": 32,
+      "hexCode": "#990066"
+    },
+    {
+      "id": 33,
+      "hexCode": "#66cc99"
+    },
+    {
+      "id": 34,
+      "hexCode": "#ff6600"
+    },
+    {
+      "id": 35,
+      "hexCode": "#99cc66"
+    },
+    {
+      "id": 36,
+      "hexCode": "#cc9933"
+    },
+    {
+      "id": 37,
+      "hexCode": "#ff3366"
+    },
+    {
+      "id": 38,
+      "hexCode": "#ff6633"
+    },
+    {
+      "id": 39,
+      "hexCode": "#330066"
+    },
+    {
+      "id": 40,
+      "hexCode": "#9966cc"
+    },
+    {
+      "id": 41,
+      "hexCode": "#00ccff"
+    },
+    {
+      "id": 42,
+      "hexCode": "#cc6600"
+    },
+    {
+      "id": 43,
+      "hexCode": "#669933"
+    },
+    {
+      "id": 44,
+      "hexCode": "#ff3399"
+    },
+    {
+      "id": 45,
+      "hexCode": "#6600cc"
+    },
+    {
+      "id": 46,
+      "hexCode": "#00cc66"
+    },
+    {
+      "id": 47,
+      "hexCode": "#cc3366"
+    },
+    {
+      "id": 48,
+      "hexCode": "#339900"
+    },
+    {
+      "id": 49,
+      "hexCode": "#6600ff"
+    },
+    {
+      "id": 50,
+      "hexCode": "#cc3333"
+    },
+    {
+      "id": 51,
+      "hexCode": "#ff00cc"
+    },
+    {
+      "id": 52,
+      "hexCode": "#ffcc33"
+    },
+    {
+      "id": 53,
+      "hexCode": "#ff9933"
+    },
+    {
+      "id": 54,
+      "hexCode": "#33cc00"
+    },
+    {
+      "id": 55,
+      "hexCode": "#ff6666"
+    },
+    {
+      "id": 56,
+      "hexCode": "#6699ff"
+    },
+    {
+      "id": 57,
+      "hexCode": "#ff3366"
+    },
+    {
+      "id": 58,
+      "hexCode": "#330033"
+    },
+    {
+      "id": 59,
+      "hexCode": "#cc00cc"
+    },
+    {
+      "id": 60,
+      "hexCode": "#ffff33"
+    },
+    {
+      "id": 61,
+      "hexCode": "#9933ff"
+    },
+    {
+      "id": 62,
+      "hexCode": "#ccff00"
+    },
+    {
+      "id": 63,
+      "hexCode": "#66ff33"
+    },
+    {
+      "id": 64,
+      "hexCode": "#00ffcc"
+    },
+    {
+      "id": 65,
+      "hexCode": "#ffcc99"
+    },
+    {
+      "id": 66,
+      "hexCode": "#99ff00"
+    },
+    {
+      "id": 67,
+      "hexCode": "#660099"
+    },
+    {
+      "id": 68,
+      "hexCode": "#66ff00"
+    },
+    {
+      "id": 69,
+      "hexCode": "#ccff33"
+    },
+    {
+      "id": 70,
+      "hexCode": "#ff6600"
+    },
+    {
+      "id": 71,
+      "hexCode": "#99cc00"
+    },
+    {
+      "id": 72,
+      "hexCode": "#6600cc"
+    },
+    {
+      "id": 73,
+      "hexCode": "#ff9966"
+    },
+    {
+      "id": 74,
+      "hexCode": "#33cc33"
+    },
+    {
+      "id": 75,
+      "hexCode": "#0066cc"
+    }
+  ]
+}
